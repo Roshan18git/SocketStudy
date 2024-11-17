@@ -1,4 +1,6 @@
 # Ex.No:1a  			Study of Socket Programming
+## Name: Roshan G
+## Reg:212223040176
 
 ## Aim: 
 To perform a study on Socket Programming
